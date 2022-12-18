@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/bakour1/dashboard-lamadin/static/css/main.82697c36.css",
-    "main.js": "/bakour1/dashboard-lamadin/static/js/main.4945fba1.js",
-    "index.html": "/bakour1/dashboard-lamadin/index.html",
-    "main.82697c36.css.map": "/bakour1/dashboard-lamadin/static/css/main.82697c36.css.map",
-    "main.4945fba1.js.map": "/bakour1/dashboard-lamadin/static/js/main.4945fba1.js.map"
+    "main.css": "/dashboard-lamadin/static/css/main.82697c36.css",
+    "main.js": "/dashboard-lamadin/static/js/main.4945fba1.js",
+    "index.html": "/dashboard-lamadin/index.html",
+    "main.82697c36.css.map": "/dashboard-lamadin/static/css/main.82697c36.css.map",
+    "main.4945fba1.js.map": "/dashboard-lamadin/static/js/main.4945fba1.js.map"
   },
   "entrypoints": [
     "static/css/main.82697c36.css",
