@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dashboard-lamadin/static/css/main.82697c36.css",
+    "main.js": "/dashboard-lamadin/static/js/main.2105e919.js",
+    "index.html": "/dashboard-lamadin/index.html",
+    "main.82697c36.css.map": "/dashboard-lamadin/static/css/main.82697c36.css.map",
+    "main.2105e919.js.map": "/dashboard-lamadin/static/js/main.2105e919.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82697c36.css",
+    "static/js/main.2105e919.js"
+  ]
+}
